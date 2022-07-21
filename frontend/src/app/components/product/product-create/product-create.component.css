@@ -1,0 +1,18 @@
+.cancel{
+    background-color: rgb(199, 33, 33);
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    margin-right: 15px;
+    margin-top: 5px;
+}
+
+.jcfe{
+    justify-content: flex-end
+}
+
